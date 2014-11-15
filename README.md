@@ -1,4 +1,4 @@
-study
+first git use
 =====
 
 for studying
