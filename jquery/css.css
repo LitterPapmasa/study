@@ -2,3 +2,17 @@
     font-weight: bolder;
     text-decoration: underline;
 }
+
+.new {
+    border: 2px solid #ffaa00;
+
+}
+
+#box {
+    position: relative;
+    width:200px;
+    height: 400px;
+    right:-70%;
+    background: url(img/kartinka_zastavka.jpg);
+
+}
