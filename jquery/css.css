@@ -16,3 +16,21 @@
     background: url(img/kartinka_zastavka.jpg);
 
 }
+
+.inline div{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border: #1ac2d8 solid 1px;
+    background: white;
+    color: #1ac2d8;
+}
+
+.inline div:hover{
+    border: white  solid 1px;
+    background: #1ac2d8;
+    color: white;
+}
+
+
+

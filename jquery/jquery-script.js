@@ -1,4 +1,4 @@
-$(document).ready(function(){ // выполняется после загрузки страници | $(function(){   });
+$(document).ready(function (){ // выполняется после загрузки страници | $(function(){   });
 
 var getText = $("#sp5 + p").text();
     //alert(getText);
