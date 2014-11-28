@@ -22,6 +22,10 @@ var getText = $("#sp5 + p").text();
             $navigation.removeClass("fixed");
         }
     });
+
+    $('.inline .sq:first').css({color:'red', fontWeight:'bold'});
+    $('.opasity .sq:first').css({color:'green', fontWeight:'bold'});
+
 }); //Конец ready
 
 /*
