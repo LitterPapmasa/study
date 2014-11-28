@@ -31,6 +31,11 @@
     background: #1ac2d8;
     color: white;
 }
+.divdef {
+    position: relative;
+    width: 100%;
+
+}
 
 
 
